@@ -18,7 +18,7 @@ namespace testing
             {
                 xuat();
             }
-            Console.WriteLine("hung dep trai");
+            Console.WriteLine("hung dep trai vailoz");
         }
     }
 }
