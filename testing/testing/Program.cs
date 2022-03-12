@@ -10,7 +10,7 @@ namespace testing
     {
         static void xuat()
         {
-            Console.WriteLine("tan ngu nhu cho");
+            Console.WriteLine("tan 1");
         }
         static void Main(string[] args)
         {
@@ -18,7 +18,7 @@ namespace testing
             {
                 xuat();
             }
-            Console.WriteLine("hung dep trai vailoz");
+            Console.WriteLine("hung dep trai");
         }
     }
 }
